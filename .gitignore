@@ -1,0 +1,8 @@
+.gradle
+build
+.venv
+.idea
+*.apk
+downapk-*
+*.jar
+grindr-spoofed-apk-*
